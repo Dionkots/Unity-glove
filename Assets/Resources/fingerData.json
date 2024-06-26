@@ -1,0 +1,13 @@
+{
+  "flexion": [0, 0, 0, 0, 0],
+  "joyX": 0,
+  "joyY": 0,
+  "joyClick": false,
+  "triggerButton": false,
+  "aButton": false,
+  "bButton": false,
+  "grab": false,
+  "pinch": false,
+  "calib": false,
+  "menu": false
+}
